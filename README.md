@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>creeper.ai (minecraft plugin builder ) Founder @rudracore.site, Minecraft server tools, and AI-based apps.<br><br>👯 I’m looking to collaborate on:<br>Open-source tools, AI projects, game dev, and Minecraft plugins.<br><br>🤝 I’m looking for help with:<br>Scaling apps, clean UI/UX, and better system design.<br><br>🌱 I’m currently learning:<br>AI/ML, full-stack dev, Unity, and advanced JavaScript.<br><br>💬 Ask me about:<br>Minecraft servers, Electron apps, Unity games, startup stuff.<br><br>⚡ Fun fact:<br>I’m a vibe coder who builds first and fixes later.
+🔭 I’m currently working on:<br>creeper.ai (minecraft plugin builder ),Founder @rudracore.site, Minecraft server tools, and AI-based apps.<br><br>👯 I’m looking to collaborate on:<br>Open-source tools, AI projects, game dev, and Minecraft plugins.<br><br>🤝 I’m looking for help with:<br>Scaling apps, clean UI/UX, and better system design.<br><br>🌱 I’m currently learning:<br>AI/ML, full-stack dev, Unity, and advanced JavaScript.<br><br>💬 Ask me about:<br>Minecraft servers, Electron apps, Unity games, startup stuff.<br><br>⚡ Fun fact:<br>I’m a vibe coder who builds first and fixes later.
 
 
 ## 🌐 Socials:
