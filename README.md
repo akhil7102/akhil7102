@@ -1,5 +1,5 @@
 # About Me:
-**I’m currently working on:** [Builtbybit profile](https://bbb.endcore.fun?utm_source=gemini)<br><br> **I’m looking to collaborate with:**<br><br>* **Plugin Developers:** To create custom plugins for my server setups.<br>* **Builders:** To design quality builds like spawns, KoTH arenas, and duel arenas for upcoming setups.<br>
+**I’m currently working on:** [Builtbybit.com/EndCoreStudios](https://bbb.endcore.fun?utm_source=gemini)<br><br> **I’m looking to collaborate with:**<br><br>* **Plugin Developers:** To create custom plugins for my server setups.<br>* **Builders:** To design quality builds like spawns, KoTH arenas, and duel arenas for upcoming setups.<br>
 
 
 ## Socials:
